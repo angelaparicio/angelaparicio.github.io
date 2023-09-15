@@ -7,6 +7,7 @@ Web personal: [angelaparicio.dev](https://angelaparicio.dev/)
 
 ### 2023
 
+ - [psicobiologiavirtual][https://www.psicobiologiavirtual.top/]: Pequeños ajustes en una página personal para dejarla tal y como la necesitaba el cliente
  - [GlowHealth](https://glowhealth.eu/): Soporte y mantenimiento de una tienda online funcionando sobre *WooCommerce* y *DIVI*
  - [Grupo Samalic](https://www.samalic.com/): Soporte de una tienda online desarrollada sobre *CodeIgniter*. 
 Realización de conexión a las distintas APIs de los proveedores para realizar sincronización de stock, tarifas y productos
